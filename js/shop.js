@@ -31,8 +31,8 @@ $(document).ready(() => {
 
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
-const producttype = urlParams.get('producttype');
-const category = urlParams.get('category');
+producttype = urlParams.get('producttype');
+category = urlParams.get('category');
 
     let output = '';
     $.each(products, (_index, product) => {
