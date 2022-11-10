@@ -131,7 +131,7 @@
 .owl-carousel .owl-video-wrapper {
   position: relative;
   height: 100%;
-  background: #000; }
+  background: rgba(255, 255, 255, 0); }
 
 .owl-carousel .owl-video-play-icon {
   position: absolute;
@@ -161,7 +161,7 @@
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
-  transition: opacity 400ms ease; }
+  transition: opacity  ease; }
 
 .owl-carousel .owl-video-frame {
   position: relative;
