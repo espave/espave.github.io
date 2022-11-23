@@ -46,19 +46,8 @@ console.log(productid);
                     </a>
                 </div>
             </div>
-
             <div class="col-lg-7 pb-5">
                 <h3 class="font-weight-semi-bold">${product.Name}</h3>
-                <div class="d-flex mb-3">
-                    <div class="text-primary mr-2">
-                        <small class="fas fa-star"></small>
-                        <small class="fas fa-star"></small>
-                        <small class="fas fa-star"></small>
-                        <small class="fas fa-star-half-alt"></small>
-                        <small class="far fa-star"></small>
-                    </div>
-                    <small class="pt-1">(50 Reviews)</small>
-                </div>
                 <h3 class="font-weight-semi-bold mb-4">$${product.Price}</h3>
                 <p class="mb-4">${product.Detail}</p>
                 <div class="d-flex align-items-center mb-4 pt-2">
@@ -75,12 +64,15 @@ console.log(productid);
                             </button>
                         </div>
                     </div>    
-                    <a href="https://wa.me/+50769044732?text=ProductID=${product.PID}"><i class="fa fa-whatsapp" style="font-size:48px;color:green"></i></a>
+                    <a href="https://wa.me/+50769044732?text=Hola%20Estoy%20Interesado%20en%20este%20producto:%20${product.Name}"><i class="fa fa-whatsapp" style="font-size:48px;color:green"></i></a>
                 </div>
             </div>
         </div>
     </div>
           `;
+          
+          return false;
+
                   }
               }
       
