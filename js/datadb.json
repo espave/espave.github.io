@@ -78,7 +78,7 @@
     },
     {
     "PicUrl":"img/A64.jpg",
-    "Name":"Collar Amor Azul🆕",
+    "Name":"Collar Amor Azul🆕AGOTADO",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
@@ -243,7 +243,7 @@
     },
     {
     "PicUrl":"img/A17.jpg",
-    "Name":"Argolla Nicky ",
+    "Name":"Argolla Nicky-AGOTADO",
     "Category":"W",
     "PType":"Ear",
     "Price":13.00,
@@ -298,7 +298,7 @@
     },
     {
     "PicUrl":"img/A24.jpg",
-    "Name":"Collar Mariposa Encantada 🔝",
+    "Name":"Collar Mariposa Encantada -AGOTADO🔝",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
@@ -569,7 +569,7 @@
     "PID":"A46",
     "Status":1,
     "Detail":"Acero Inoxidable",
-    "Offer":""
+    "Offer":"18.00"
     },
     {
     "PicUrl":"img/A47.jpg",
@@ -602,7 +602,7 @@
     "PID":"A49",
     "Status":1,
     "Detail":"Acero Inoxidable",
-    "Offer":""
+    "Offer":"18.00"
     },
     {
     "PicUrl":"img/A50.jpg",
@@ -738,7 +738,7 @@
     },
     {
     "PicUrl":"img/A69.jpg",
-    "Name":"Anillo Horóscopo Cancer🆕 ",
+    "Name":"Anillo Horóscopo Cancer-AGOTADO🆕 ",
     "Category":"W",
     "PType":"Ring",
     "Price":10.00,
