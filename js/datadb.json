@@ -44,28 +44,6 @@
     "Offer":"15.00"
     },
     {
-    "PicUrl":"img/A5.jpg",
-    "Name":"Collar Dulce Amora-AGOTADO",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A5",
-    "Status":1,
-    "Detail":"Acero Inoxidable ",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A6.jpg",
-    "Name":"Collar Alis",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A6",
-    "Status":1,
-    "Detail":"Acero Inoxidable",
-    "Offer":"15.00"
-    },
-    {
     "PicUrl":"img/A10.jpg",
     "Name":"Collar Roxy",
     "Category":"W",
@@ -78,7 +56,7 @@
     },
     {
     "PicUrl":"img/A64.jpg",
-    "Name":"Collar Amor Azul🆕AGOTADO",
+    "Name":"Collar Amor Azul",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
@@ -88,8 +66,63 @@
     "Offer":""
     },
     {
+        "PicUrl":"img/A7.jpg",
+        "Name":"Aretes Dani",
+        "Category":"W",
+        "PType":"Ear",
+        "Price":13.00,
+        "PID":"A7",
+        "Status":1,
+        "Detail":" Acero inoxidable Enchapado en oro 18 K",
+        "Offer":"10.00"
+        },
+    {
+    "PicUrl":"img/A72.jpg",
+    "Name":"Collar Pureza de Amor ",
+    "Category":"W",
+    "PType":"Necklace",
+    "Price":18.00,
+    "PID":"A72",
+    "Status":1,
+    "Detail":"Acero de Titanio",
+    "Offer":""
+    },
+    {
+    "PicUrl":"img/A74.jpg",
+    "Name":"Collar Flechazo de Amor ",
+    "Category":"W",
+    "PType":"Necklace",
+    "Price":18.00,
+    "PID":"A74",
+    "Status":1,
+    "Detail":"Acero de Titanio",
+    "Offer":""
+    },
+    {
+    "PicUrl":"img/A73.jpg",
+    "Name":"Collar Rosaura ",
+    "Category":"W",
+    "PType":"Necklace",
+    "Price":18.00,
+    "PID":"A73",
+    "Status":1,
+    "Detail":"Acero de Titanio",
+    "Offer":""
+    }, 
+    {
+    "PicUrl":"img/A70.jpg",
+    "Name":"Collar Corazón de Angel 2🔝",
+    "Category":"W",
+    "PType":"Necklace",
+    "Price":18.00,
+    "PID":"A70",
+    "Status":1,
+    "Detail":"Acero de titanio",
+    "Offer":""
+    },
+    {
     "PicUrl":"img/A55.jpg",
-    "Name":"Collar Camila 🔝🆕 ",
+    "Name":"Collar Camila 🔝 ",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
@@ -100,7 +133,7 @@
     },
     {
     "PicUrl":"img/A61.jpg",
-    "Name":"Collar corazón indomable 🔝🆕",
+    "Name":"Collar corazón indomable 🔝",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
@@ -111,7 +144,7 @@
     },
     {
     "PicUrl":"img/A62.jpg",
-    "Name":"Collar Corazón Valiente 🔝🆕",
+    "Name":"Collar Corazón Valiente ",
     "Category":"W",
     "PType":"Necklace",
     "Price":20.00,
@@ -122,7 +155,7 @@
     },
     {
     "PicUrl":"img/A56.jpg",
-    "Name":"Collar Luz 🆕",
+    "Name":"Collar Luz ",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
@@ -133,35 +166,13 @@
     },
     {
     "PicUrl":"img/A65.jpg",
-    "Name":"Collar + aretes Candado de Amor 🆕",
+    "Name":"Collar + aretes Candado de Amor ",
     "Category":"W",
     "PType":"Necklace",
     "Price":16.00,
     "PID":"A65",
     "Status":1,
     "Detail":"Acero Inoxidable",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A7.jpg",
-    "Name":"Aretes Dani",
-    "Category":"W",
-    "PType":"Ear",
-    "Price":13.00,
-    "PID":"A7",
-    "Status":1,
-    "Detail":" Acero inoxidable Enchapado en oro 18 K",
-    "Offer":"10.00"
-    },
-    {
-    "PicUrl":"img/A70.jpg",
-    "Name":"Collar Corazón de Angel 2🔝🆕",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A70",
-    "Status":1,
-    "Detail":"Acero de titanio",
     "Offer":""
     },
     {
@@ -174,17 +185,6 @@
     "Status":1,
     "Detail":" Acero inoxidable Enchapado en oro 18 K",
     "Offer":"10.00"
-    },
-    {
-    "PicUrl":"img/A9.jpg",
-    "Name":"Aretes Estela-AGOTADO",
-    "Category":"W",
-    "PType":"Ear",
-    "Price":13.00,
-    "PID":"A9",
-    "Status":1,
-    "Detail":"Acero de Titanio",
-    "Offer":""
     },
     {
     "PicUrl":"img/A11.jpg",
@@ -297,19 +297,8 @@
     "Offer":"18.00"
     },
     {
-    "PicUrl":"img/A24.jpg",
-    "Name":"Collar Mariposa Encantada -AGOTADO🔝",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A24",
-    "Status":1,
-    "Detail":"Acero Inoxidable",
-    "Offer":""
-    },
-    {
     "PicUrl":"img/A25.jpg",
-    "Name":"Collar Cielo-AGOTADO",
+    "Name":"Collar Cielo-Pronto nuevamente",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
@@ -382,17 +371,6 @@
     "PID":"A31",
     "Status":1,
     "Detail":"Acero inoxidable",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A32.jpg",
-    "Name":"Collar Corazón Harley",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A32",
-    "Status":1,
-    "Detail":"Acero de Titanio -Cadena en tono Rose Gold",
     "Offer":""
     },
     {
@@ -483,17 +461,7 @@
     "Detail":"Acero Inoxidable",
     "Offer":""
     },
-    {
-    "PicUrl":"img/A39.jpg",
-    "Name":"Corazón de Angel-AGOTADO ",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A39",
-    "Status":1,
-    "Detail":"Acero de Titanio ",
-    "Offer":""
-    },
+
     {
     "PicUrl":"img/A40.jpg",
     "Name":"Collar Ancla 🔝",
@@ -672,7 +640,7 @@
     },
     {
     "PicUrl":"img/A57.jpg",
-    "Name":"Pulsera Tania 🆕 ",
+    "Name":"Pulsera Tania ",
     "Category":"W",
     "PType":"Wrist",
     "Price":15.00,
@@ -683,7 +651,7 @@
     },
     {
     "PicUrl":"img/A58.jpg",
-    "Name":"Pulsera Corazón Valiente🆕",
+    "Name":"Pulsera Corazón Valiente",
     "Category":"W",
     "PType":"Wrist",
     "Price":15.00,
@@ -694,7 +662,7 @@
     },
     {
     "PicUrl":"img/A60.jpg",
-    "Name":"Anillo Alexa🆕",
+    "Name":"Anillo Alexa",
     "Category":"W",
     "PType":"Ring",
     "Price":12.00,
@@ -705,7 +673,7 @@
     },
     {
     "PicUrl":"img/A63.jpg",
-    "Name":"Anillo Tanisha🆕",
+    "Name":"Anillo Tanisha",
     "Category":"W",
     "PType":"Ring",
     "Price":13.00,
@@ -737,17 +705,6 @@
     "Offer":""
     },
     {
-    "PicUrl":"img/A69.jpg",
-    "Name":"Anillo Horóscopo Cancer-AGOTADO🆕 ",
-    "Category":"W",
-    "PType":"Ring",
-    "Price":10.00,
-    "PID":"A69",
-    "Status":1,
-    "Detail":"Acero Inoxidable",
-    "Offer":""
-    },
-    {
     "PicUrl":"img/A71.jpg",
     "Name":"Anillo Merlina 🔝",
     "Category":"W",
@@ -760,7 +717,7 @@
     },
     {
     "PicUrl":"img/A59.jpg",
-    "Name":"Pulsera Kalista 🆕",
+    "Name":"Pulsera Kalista ",
     "Category":"W",
     "PType":"Wrist",
     "Price":15.00,
@@ -769,4 +726,5 @@
     "Detail":"Acero de Titanio",
     "Offer":""
     }
+
     ]
