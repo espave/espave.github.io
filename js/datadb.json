@@ -271,18 +271,7 @@
     "Price":13.00,
     "PID":"A19",
     "Status":1,
-    "Detail":"Acero Inoxidable",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A22.jpg",
-    "Name":"Collar Corazón Lindo",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":16.00,
-    "PID":"A22",
-    "Status":1,
-    "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
+    "Detail":"Acero Inoxidable", 
     "Offer":""
     },
     {
@@ -382,17 +371,6 @@
     "PID":"A33",
     "Status":1,
     "Detail":"Acero Inoxidable ",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A20.jpg",
-    "Name":"Collar Dulce Maria -AGOTADO",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A20",
-    "Status":1,
-    "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
     "Offer":""
     },
     {
