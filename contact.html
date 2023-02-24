@@ -162,7 +162,7 @@
             
         </div>
         <div class="row px-xl-5">
-            <div class="col-lg-7 mb-5">
+            <!-- <div class="col-lg-7 mb-5">
                 <div class="contact-form">
                     <div id="success"></div>
                     <form name="sentMessage" id="contactForm" novalidate="novalidate">
@@ -192,12 +192,10 @@
                         </div>
                     </form>
                 </div>
-            </div>
+            </div> -->
             <div class="col-lg-5 mb-5">
-                <h5 class="font-weight-semi-bold mb-3">
-                    
-                    1.¿Cúales son nuestros metodos de pago? 
-                    <br>
+                <button class="accordionespave">1.¿Cúales son nuestros metodos de pago?</button>
+                <div class="accordionespavepanel">
                     <br>
                     -Yappy 
                     <br>
@@ -208,59 +206,59 @@
                     Al momento de cancelar , por favor recuerda enviarnos el comprobante para proceder con tu pedido.
                     <br>
                     <br>
-                    2.Método de entrega
-                    <br>
-                    <br>
-                    -Servicio delivery únicamente en Panamá, centro de la ciudad:
-                    <br>
-                    <br>
-                    -Tarifa varia segun distancia entre $4.00- $5.00.
-                    <br>
-                    <br>
-                    -Interior del país y aréas de Panamá norte,Brisas del golf y barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos mediante uno express, tarifa $6.50.
-                    <br>
-                    <br>
-                    3.Tiempo de Espera para recibir tu pedido 
-                    <br>
-                    <br>
-                    -Entrega inmediata solo delivery ciudad de Panamá
-                    <br>
-                    <br>
-                    -Sí realizas tu pedido dentro del horario 8 a.m a 3 p.m recibes tu pedido el mismo día.
-                    <br>
-                    <br>
-                    -Sí tu pedido es despues de las 3  pm te lo envíaremos el día siguiente. 
-                    <br>
-                    <br>
-                    Nota importante : Recuerda que los pedidos deben ser verificados y empacados ,por ende establecimos dicho horario , para cumplir con exito nuestras entregas.
-                    <br>
-                    <br>
-                    -Entrega mediante uno express - Los días Lunes y viernes se entregan los pedidos en Uno express para que sean transportados hacia su destino.
-                    <br>
-                    <br>
-                    -Retiro presencial solo con previa coordinación. 
-                    <br>
-                    <br>
-                   4.Material de nuestras piezas
-                   <br>
-                   <br>
-                   -Acero de Titanio 
-                   <br>
-                   <br>
-                   -Acero Inoxidable
-                   <br>
-                   <br>
-                   -En la sección detalle, de cada producto aparece el material del que esta hecha la pieza.
-
-
-                  </p>
+                </div>
+                <button class="accordionespave">2.Método de entrega</button>
+                    <div class="accordionespavepanel">
+                        <br>
+                        -Servicio delivery únicamente en Panamá, centro de la ciudad:
+                        <br>
+                        <br>
+                        -Tarifa varia segun distancia entre $4.00- $5.00.
+                        <br>
+                        <br>
+                        -Interior del país y aréas de Panamá norte,Brisas del golf y barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos mediante uno express, tarifa $6.50.
+                        <br>
+                        <br>
+                    </div>
+                <button class="accordionespave">3.Tiempo de Espera para recibir tu pedido</button>
+                    <div class="accordionespavepanel">
+                            <br>
+                            -Entrega inmediata solo delivery ciudad de Panamá
+                            <br>
+                            <br>
+                            -Sí realizas tu pedido dentro del horario 8 a.m a 3 p.m recibes tu pedido el mismo día.
+                            <br>
+                            <br>
+                            -Sí tu pedido es despues de las 3  pm te lo envíaremos el día siguiente. 
+                            <br>
+                            <br>
+                            Nota importante : Recuerda que los pedidos deben ser verificados y empacados ,por ende establecimos dicho horario , para cumplir con exito nuestras entregas.
+                            <br>
+                            <br>
+                            -Entrega mediante uno express - Los días Lunes y viernes se entregan los pedidos en Uno express para que sean transportados hacia su destino.
+                            <br>
+                            <br>
+                            -Retiro presencial solo con previa coordinación. 
+                            <br>
+                            <br>
+                    </div>
+                <button class="accordionespave">4.Material de nuestras piezas</button>
+                    <div class="accordionespavepanel">
+                            <br>
+                            -Acero de Titanio 
+                            <br>
+                            <br>
+                            -Acero Inoxidable
+                            <br>
+                            <br>
+                            -En la sección detalle, de cada producto aparece el material del que esta hecha la pieza.
+                    </div>
                 <div class="d-flex flex-column mb-3">
                     <h5 class="font-weight-semi-bold mb-3">Tienda Online</h5>
                     <p class="mb-2"><i class="fa fa-map-marker-alt text-primary mr-3"></i>Panamá,Ciudad de Panamá</p>
                     <p class="mb-2"><i class="fa fa-envelope text-primary mr-3"></i>espaveclothing@gmail.com</p>
                     <p class="mb-2"><i class="fa fa-phone-alt text-primary mr-3"></i>+507 6904-4732 </p>
-               
-            </div>
+                </div>
         </div>
     </div>
     <!-- Contact End -->
@@ -321,6 +319,22 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+    <script>
+        var acc = document.getElementsByClassName("accordionespave");
+        var i;
+        
+        for (i = 0; i < acc.length; i++) {
+          acc[i].addEventListener("click", function() {
+            this.classList.toggle("accordionespaveactive");
+            var panel = this.nextElementSibling;
+            if (panel.style.maxHeight) {
+              panel.style.maxHeight = null;
+            } else {
+              panel.style.maxHeight = panel.scrollHeight + "px";
+            }
+          });
+        }
+        </script>
 </body>
 
 </html>
