@@ -1,69 +1,68 @@
 [{
     "PicUrl":"img/A1.jpg",
-    "Name":"Collar Ojito -20%",
+    "Name":"Collar Ojito ",
     "Category":"W",
     "PType":"Necklace",
     "Price":15.00,
     "PID":"A1",
     "Status":1,
-    "Detail":"Acero inoxidable"
-    ,
-    "Offer":" 12.00"
+    "Detail":"Acero inoxidable",
+    "Offer":""
     },
     {
     "PicUrl":"img/A2.jpg",
-    "Name":"Collar Ojito de Ursula -20% ",
+    "Name":"Collar Ojito de Ursula  ",
     "Category":"W",
     "PType":"Necklace",
     "Price":15.00,
     "PID":"A2",
     "Status":1,
     "Detail":"Acero Inoxidable",
-    "Offer":"12.00"
+    "Offer":""
     },
     {
     "PicUrl":"img/A3.jpg",
-    "Name":"Collar Mayita-20%",
+    "Name":"Collar Mayita",
     "Category":"W",
     "PType":"Necklace",
     "Price":15.00,
     "PID":"A3",
     "Status":1,
     "Detail":"Acero de titanio 18 K Gold vacum plated, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":"12.00"
+    "Offer":""
     },
     {
     "PicUrl":"img/A4.jpg",
-    "Name":"Collar ojo de Amor-20%",
+    "Name":"Collar ojo de Amor",
     "Category":"W",
     "PType":"Necklace",
     "Price":15.00,
     "PID":"A4",
     "Status":1,
     "Detail":"Acero Inoxidable ",
-    "Offer":"12.00"
+    "Offer":""
     },
     {
     "PicUrl":"img/A10.jpg",
-    "Name":"Collar Roxy-20%",
+    "Name":"Collar Roxy",
     "Category":"W",
     "PType":"Necklace",
     "Price":15.00,
     "PID":"A10",
     "Status":1,
     "Detail":"Acero Inoxidable ",
-    "Offer":"12.00"
+    "Offer":""
     },
     {
     "PicUrl":"img/A64.jpg",
-    "Name":"Collar Amor Azul-20%",
+    "Name":"Collar Amor Azul",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
     "PID":"A64",
     "Status":1,
     "Detail":"Acero de titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":"14.40"
+    "Offer":""
     },
     {
         "PicUrl":"img/A7.jpg",
@@ -85,95 +84,95 @@
     "PID":"A72",
     "Status":1,
     "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":"14.40"
+    "Offer":""
     },
     {
     "PicUrl":"img/A74.jpg",
-    "Name":"Collar Flechazo de Amor -20%",
+    "Name":"Collar Flechazo de Amor",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
     "PID":"A74",
     "Status":1,
     "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":"14.40"
+    "Offer":""
     },
     {
     "PicUrl":"img/A73.jpg",
-    "Name":"Collar Rosaura-20% ",
+    "Name":"Collar Rosaura ",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
     "PID":"A73",
     "Status":1,
     "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":"14.40"
+    "Offer":""
     }, 
     {
     "PicUrl":"img/A70.jpg",
-    "Name":"Collar Corazón de Angel2 -20%",
+    "Name":"Collar Corazón de Angel 2",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
     "PID":"A70",
     "Status":1,
     "Detail":"Acero de titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":"14.40"
+    "Offer":""
     },
     {
     "PicUrl":"img/A55.jpg",
-    "Name":"Collar Camila -20% ",
+    "Name":"Collar Camila  ",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
     "PID":"A55",
     "Status":1,
     "Detail":"Acero de titanio-Chapado en oro, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":"14.40"
+    "Offer":""
     },
     {
     "PicUrl":"img/A61.jpg",
-    "Name":"Collar corazón indomable -20%",
+    "Name":"Collar corazón indomable ",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
     "PID":"A61",
     "Status":1,
     "Detail":"Acero Inoxidable",
-    "Offer":"14.40"
+    "Offer":""
     },
     {
     "PicUrl":"img/A62.jpg",
-    "Name":"Collar Corazón Valiente -20%",
+    "Name":"Collar Corazón Valiente ",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
     "PID":"A62",
     "Status":1,
     "Detail":"Acero de titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":"14.40"
+    "Offer":""
     },
     {
     "PicUrl":"img/A56.jpg",
-    "Name":"Collar Luz-20%",
+    "Name":"Collar Luz",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
     "PID":"A56",
     "Status":1,
     "Detail":"Acero de titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":"14.40"
+    "Offer":""
     },
     {
     "PicUrl":"img/A65.jpg",
-    "Name":"Collar + aretes Candado de Amor-20%",
+    "Name":"Collar + aretes Candado de Amor",
     "Category":"W",
     "PType":"Necklace",
-    "Price":16.00,
+    "Price":15.00,
     "PID":"A65",
     "Status":1,
     "Detail":"Acero Inoxidable",
-    "Offer":"12.80"
+    "Offer":""
     },
     {
     "PicUrl":"img/A8.jpg",
@@ -276,25 +275,25 @@
     },
     {
     "PicUrl":"img/A23.jpg",
-    "Name":"Collar Corazones Amados -20%",
+    "Name":"Collar Corazones Amados ",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
     "PID":"A23",
     "Status":1,
     "Detail":"Acero Inoxidable",
-    "Offer":"14.40"
+    "Offer":""
     },
     {
     "PicUrl":"img/A25.jpg",
-    "Name":"Collar Cielo-20%",
+    "Name":"Collar Cielo",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
     "PID":"A25",
     "Status":1,
     "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":"14.40"
+    "Offer":""
     },
     {
     "PicUrl":"img/A29.jpg",
@@ -320,36 +319,36 @@
     },
     {
     "PicUrl":"img/A31.jpg",
-    "Name":"Collar Celia-20% ",
+    "Name":"Collar Celia",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
     "PID":"A31",
     "Status":1,
     "Detail":"Acero inoxidable",
-    "Offer":"14.40"
+    "Offer":""
     },
     {
     "PicUrl":"img/A33.jpg",
-    "Name":"Collar Cruz -20% ",
+    "Name":"Collar Cruz",
     "Category":"W",
     "PType":"Necklace",
     "Price":15.00,
     "PID":"A33",
     "Status":1,
     "Detail":"Acero Inoxidable ",
-    "Offer":"12.00"
+    "Offer":""
     },
     {
     "PicUrl":"img/A21.jpg",
-    "Name":"Collar Corazón de Perla -20% ",
+    "Name":"Collar Corazón de Perla",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
     "PID":"A21",
     "Status":1,
     "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":"14.40"
+    "Offer":""
     },
     {
     "PicUrl":"img/A34.jpg",
@@ -375,14 +374,14 @@
     },
     {
     "PicUrl":"img/A36.jpg",
-    "Name":"Collar Perla-20%",
+    "Name":"Collar Perla",
     "Category":"W",
     "PType":"Necklace",
     "Price":12.00,
     "PID":"A36",
     "Status":1,
     "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":"9.60"
+    "Offer":""
     },
     {
     "PicUrl":"img/A37.jpg",
