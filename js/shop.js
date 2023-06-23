@@ -16,11 +16,18 @@ const urlParams = new URLSearchParams(queryString);
 producttype = urlParams.get('producttype');
 category = urlParams.get('category');
 
+    if (producttype == "silverr") 
+    {
+        document.getElementById('OrderRequest').innerHTML = ' Plata 925 Solo Por Pedido';
+        document.getElementById('OrderRequestDescription').innerHTML = 'Las piezas de plata 925 solo se venden por pedido. El cual debe ser abonado 50% y cancelar el día de la entrega. El tiempo de entrega es de 15 a 18 días.';
+    }
+
     let output = '';
     $.each(products, (_index, product) => {
 
       if(producttype == null)
       {
+
         if(product.Offer != "")
         {
             output += `

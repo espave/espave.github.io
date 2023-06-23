@@ -1,122 +1,56 @@
 [{
     "PicUrl":"img/A1.jpg",
-    "Name":"Collar Ojito ",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":15.00,
-    "PID":"A1",
-    "Status":1,
-    "Detail":"Acero inoxidable",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A2.jpg",
-    "Name":"Collar Ojito de Ursula  ",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":15.00,
-    "PID":"A2",
-    "Status":1,
-    "Detail":"Acero Inoxidable",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A3.jpg",
-    "Name":"Collar Mayita",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":15.00,
-    "PID":"A3",
-    "Status":1,
-    "Detail":"Acero de titanio 18 K Gold vacum plated, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A4.jpg",
-    "Name":"Collar ojo de Amor",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":15.00,
-    "PID":"A4",
-    "Status":1,
-    "Detail":"Acero Inoxidable ",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A10.jpg",
-    "Name":"Collar Roxy",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":15.00,
-    "PID":"A10",
-    "Status":1,
-    "Detail":"Acero Inoxidable ",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A64.jpg",
     "Name":"Collar Amor Azul",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
-    "PID":"A64",
+    "PID":"A1",
     "Status":1,
-    "Detail":"Acero de titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
+    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
     "Offer":""
     },
     {
-        "PicUrl":"img/A7.jpg",
-        "Name":"Aretes Dani",
-        "Category":"W",
-        "PType":"Ear",
-        "Price":13.00,
-        "PID":"A7",
-        "Status":1,
-        "Detail":" Acero inoxidable Enchapado en oro 18 K",
-        "Offer":"10.00"
-        },
-    {
-    "PicUrl":"img/A72.jpg",
-    "Name":"Collar Pureza de Amor ",
+    "PicUrl":"img/A2.jpg",
+    "Name":"Collar Cielo  ",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
-    "PID":"A72",
+    "PID":"A2",
     "Status":1,
-    "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
+    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
     "Offer":""
     },
     {
-    "PicUrl":"img/A74.jpg",
-    "Name":"Collar Flechazo de Amor",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A74",
-    "Status":1,
-    "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A73.jpg",
-    "Name":"Collar Rosaura ",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A73",
-    "Status":1,
-    "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":""
-    }, 
-    {
-    "PicUrl":"img/A70.jpg",
+    "PicUrl":"img/A3.jpg",
     "Name":"Collar Corazón de Angel 2",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
-    "PID":"A70",
+    "PID":"A3",
     "Status":1,
-    "Detail":"Acero de titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
+    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+    "Offer":""
+    },
+    {
+    "PicUrl":"img/A4.jpg",
+    "Name":"Collar Pureza de Amor ",
+    "Category":"W",
+    "PType":"Necklace",
+    "Price":18.00,
+    "PID":"A4",
+    "Status":1,
+    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+    "Offer":""
+    },
+    {
+    "PicUrl":"img/A10.jpg",
+    "Name":"Collar Rosaura ",
+    "Category":"W",
+    "PType":"Necklace",
+    "Price":18.00,
+    "PID":"A10",
+    "Status":1,
+    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
     "Offer":""
     },
     {
@@ -127,9 +61,20 @@
     "Price":18.00,
     "PID":"A55",
     "Status":1,
-    "Detail":"Acero de titanio-Chapado en oro, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
+    "Detail":"-Material : Acero de titanio chapado en oro, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
     "Offer":""
     },
+    {
+        "PicUrl":"img/A7.jpg",
+        "Name":"Aretes Dani",
+        "Category":"W",
+        "PType":"Ear",
+        "Price":13.00,
+        "PID":"A7",
+        "Status":1,
+        "Detail":"-Material:Acero inoxidable Enchapado en oro 18 K.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+        "Offer":"10.00"
+        },
     {
     "PicUrl":"img/A61.jpg",
     "Name":"Collar corazón indomable ",
@@ -138,7 +83,62 @@
     "Price":18.00,
     "PID":"A61",
     "Status":1,
-    "Detail":"Acero Inoxidable",
+    "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50. ",
+    "Offer":""
+    },
+    {
+    "PicUrl":"img/A74.jpg",
+    "Name":"Collar Flechazo de Amor",
+    "Category":"W",
+    "PType":"Necklace",
+    "Price":18.00,
+    "PID":"A74",
+    "Status":1,
+    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+    "Offer":""
+    },
+    {
+    "PicUrl":"img/A23.jpg",
+    "Name":"Collar Corazones Amados ",
+    "Category":"W",
+    "PType":"Necklace",
+    "Price":18.00,
+    "PID":"A23",
+    "Status":1,
+    "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50. ",
+    "Offer":""
+    }, 
+    {
+    "PicUrl":"img/A56.jpg",
+    "Name":"Collar Luz",
+    "Category":"W",
+    "PType":"Necklace",
+    "Price":18.00,
+    "PID":"A56",
+    "Status":1,
+    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+    "Offer":""
+    },
+    {
+    "PicUrl":"img/A31.jpg",
+    "Name":"Collar Celia",
+    "Category":"W",
+    "PType":"Necklace",
+    "Price":18.00,
+    "PID":"A31",
+    "Status":1,
+    "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50. ",
+    "Offer":""
+    },
+    {
+    "PicUrl":"img/A21.jpg",
+    "Name":"Collar corazón de Perla ",
+    "Category":"W",
+    "PType":"Necklace",
+    "Price":18.00,
+    "PID":"A21",
+    "Status":1,
+    "Detail":"-Material perlas y el dije es de acero de Titanio , es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
     "Offer":""
     },
     {
@@ -149,18 +149,18 @@
     "Price":18.00,
     "PID":"A62",
     "Status":1,
-    "Detail":"Acero de titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
+    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
     "Offer":""
     },
     {
-    "PicUrl":"img/A56.jpg",
-    "Name":"Collar Luz",
+    "PicUrl":"img/A36.jpg",
+    "Name":"Collar Perla",
     "Category":"W",
     "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A56",
+    "Price":12.00,
+    "PID":"A36",
     "Status":1,
-    "Detail":"Acero de titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
+    "Detail":"-Material :Dije de Perla y cadena de  acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
     "Offer":""
     },
     {
@@ -171,8 +171,8 @@
     "Price":15.00,
     "PID":"A65",
     "Status":1,
-    "Detail":"Acero Inoxidable",
-    "Offer":""
+    "Detail":"-Material:Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50",
+    "Offer":"13.00"
     },
     {
     "PicUrl":"img/A8.jpg",
@@ -182,7 +182,7 @@
     "Price":13.00,
     "PID":"A8",
     "Status":1,
-    "Detail":" Acero inoxidable Enchapado en oro 18 K",
+    "Detail":"-Material: Acero inoxidable Enchapado en oro 18 K.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
     "Offer":"10.00"
     },
     {
@@ -193,7 +193,7 @@
     "Price":10.00,
     "PID":"A11",
     "Status":1,
-    "Detail":"Cuentas",
+    "Detail":"Material Cuentas.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50",
     "Offer":""
     },
     {
@@ -204,7 +204,7 @@
     "Price":11.00,
     "PID":"A12",
     "Status":1,
-    "Detail":"acero de titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
+    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
     "Offer":""
     },
     {
@@ -215,7 +215,7 @@
     "Price":12.00,
     "PID":"A13",
     "Status":1,
-    "Detail":"Acero inoxidable",
+    "Detail":"-Material :Acero inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50",
     "Offer":"10.00"
     },
     {
@@ -226,7 +226,7 @@
     "Price":12.00,
     "PID":"A14",
     "Status":1,
-    "Detail":"acero de titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
+    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
     "Offer":""
     },
     {
@@ -259,7 +259,7 @@
     "Price":14.00,
     "PID":"A18",
     "Status":1,
-    "Detail":"Acero Inoxidable",
+    "Detail":"-Material:Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50",
     "Offer":"12.50"
     },
     {
@@ -270,30 +270,30 @@
     "Price":13.00,
     "PID":"A19",
     "Status":1,
-    "Detail":"Acero Inoxidable", 
+    "Detail":"-Material :Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.", 
     "Offer":""
     },
     {
-    "PicUrl":"img/A23.jpg",
-    "Name":"Collar Corazones Amados ",
+    "PicUrl":"img/A33.jpg",
+    "Name":"Collar Cruz +aretes",
     "Category":"W",
     "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A23",
+    "Price":15.00,
+    "PID":"A33",
     "Status":1,
-    "Detail":"Acero Inoxidable",
-    "Offer":""
+    "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+    "Offer":"13.00"
     },
     {
     "PicUrl":"img/A25.jpg",
-    "Name":"Collar Cielo",
+    "Name":"Collar Roxy",
     "Category":"W",
     "PType":"Necklace",
-    "Price":18.00,
+    "Price":15.00,
     "PID":"A25",
     "Status":1,
-    "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":""
+    "Detail":"-Material:Acero inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+    "Offer":"13.00"
     },
     {
     "PicUrl":"img/A29.jpg",
@@ -303,7 +303,7 @@
     "Price":13.00,
     "PID":"A29",
     "Status":1,
-    "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
+    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
     "Offer":""
     },
     {
@@ -314,41 +314,41 @@
     "Price":14.00,
     "PID":"A30",
     "Status":1,
-    "Detail":"Acero Inoxidable",
+    "Detail":"-Material: Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50",
     "Offer":""
     },
     {
-    "PicUrl":"img/A31.jpg",
-    "Name":"Collar Celia",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A31",
-    "Status":1,
-    "Detail":"Acero inoxidable",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A33.jpg",
-    "Name":"Collar Cruz",
+    "PicUrl":"img/A64.jpg",
+    "Name":"Collar ojito",
     "Category":"W",
     "PType":"Necklace",
     "Price":15.00,
-    "PID":"A33",
+    "PID":"A64",
     "Status":1,
-    "Detail":"Acero Inoxidable ",
-    "Offer":""
+    "Detail":"-Material : Acero inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+    "Offer":"13.00"
     },
     {
-    "PicUrl":"img/A21.jpg",
-    "Name":"Collar Corazón de Perla",
+    "PicUrl":"img/A73.jpg",
+    "Name":"Collar Mayita",
     "Category":"W",
     "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A21",
+    "Price":15.00,
+    "PID":"A73",
     "Status":1,
-    "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":""
+    "Detail":"-Material :Acero de titanio 18 K chapado en oro , es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+    "Offer":"13.00"
+    },
+    {
+    "PicUrl":"img/A72.jpg",
+    "Name":"Collar ojito de ursula ",
+    "Category":"W",
+    "PType":"Necklace",
+    "Price":15.00,
+    "PID":"A72",
+    "Status":1,
+    "Detail":"-Material:Acero inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+    "Offer":"13.00"
     },
     {
     "PicUrl":"img/A34.jpg",
@@ -358,7 +358,7 @@
     "Price":10.00,
     "PID":"A34",
     "Status":1,
-    "Detail":"Acero Inoxidable ",
+    "Detail":"-Material:Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50 ",
     "Offer":""
     },
     {
@@ -369,18 +369,18 @@
     "Price":13.00,
     "PID":"A35",
     "Status":1,
-    "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
+    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
     "Offer":""
     },
     {
-    "PicUrl":"img/A36.jpg",
-    "Name":"Collar Perla",
+    "PicUrl":"img/A70.jpg",
+    "Name":"Collar ojo de amor",
     "Category":"W",
     "PType":"Necklace",
-    "Price":12.00,
-    "PID":"A36",
+    "Price":15.00,
+    "PID":"A70",
     "Status":1,
-    "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
+    "Detail":"-Material:Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50. ",
     "Offer":""
     },
     {
@@ -391,7 +391,7 @@
     "Price":12.00,
     "PID":"A37",
     "Status":1,
-    "Detail":"Acero Inoxidable",
+    "Detail":"-Material :Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
     "Offer":"10.00"
     },
     {
@@ -402,21 +402,10 @@
     "Price":10.00,
     "PID":"A38",
     "Status":1,
-    "Detail":"Acero Inoxidable",
+    "Detail":"Material :Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50",
     "Offer":""
     },
 
-    {
-    "PicUrl":"img/A40.jpg",
-    "Name":"Collar Ancla 🔝",
-    "Category":"M",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A40",
-    "Status":1,
-    "Detail":"Acero de Titanio , es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":""
-    },
     {
     "PicUrl":"img/A41.jpg",
     "Name":"Collar Boss🔝",
@@ -439,39 +428,7 @@
     "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico. ",
     "Offer":"16.00"
     },
-    {
-    "PicUrl":"img/A43.jpg",
-    "Name":"Collar John🔝",
-    "Category":"M",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A43",
-    "Status":1,
-    "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico. ",
-    "Offer":"16.00"
-    },
-    {
-    "PicUrl":"img/A44.jpg",
-    "Name":"Collar Link 🔝",
-    "Category":"M",
-    "PType":"Necklace",
-    "Price":20.00,
-    "PID":"A44",
-    "Status":1,
-    "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico. ",
-    "Offer":"18.00"
-    },
-    {
-    "PicUrl":"img/A45.jpg",
-    "Name":"Collar Antony ",
-    "Category":"M",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A45",
-    "Status":1,
-    "Detail":"Acero Inoxidable",
-    "Offer":""
-    },
+
     {
     "PicUrl":"img/A46.jpg",
     "Name":"Collar Heavy",
@@ -494,72 +451,7 @@
     "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
     "Offer":""
     },
-    {
-    "PicUrl":"img/A48.jpg",
-    "Name":"Collar Fish ",
-    "Category":"M",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A48",
-    "Status":1,
-    "Detail":"Acero Inoxidable",
-    "Offer":"16.00"
-    },
-    {
-    "PicUrl":"img/A49.jpg",
-    "Name":"Collar Winner",
-    "Category":"M",
-    "PType":"Necklace",
-    "Price":20.00,
-    "PID":"A49",
-    "Status":1,
-    "Detail":"Acero Inoxidable",
-    "Offer":"18.00"
-    },
-    {
-    "PicUrl":"img/A50.jpg",
-    "Name":"Collar Stallon 🔝",
-    "Category":"M",
-    "PType":"Necklace",
-    "Price":19.00,
-    "PID":"A50",
-    "Status":1,
-    "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":"17.50"
-    },
-    {
-    "PicUrl":"img/A51.jpg",
-    "Name":"Pulsera Marlon ",
-    "Category":"M",
-    "PType":"Wrist",
-    "Price":18.00,
-    "PID":"A51",
-    "Status":1,
-    "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A52.jpg",
-    "Name":"Pulsera Brando",
-    "Category":"M",
-    "PType":"Wrist",
-    "Price":18.00,
-    "PID":"A52",
-    "Status":1,
-    "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A53.jpg",
-    "Name":"Collar Ron ",
-    "Category":"M",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A53",
-    "Status":1,
-    "Detail":"Acero Inoxidable",
-    "Offer":""
-    },
+
     {
     "PicUrl":"img/A54.jpg",
     "Name":"Collar Spider ",
@@ -669,6 +561,215 @@
     "Status":1,
     "Detail":"Acero de Titanio , es un material que no se oxida ni desgasta con el tiempo, hipoalergénico.",
     "Offer":"AGOTADO"
-    }
+    },
+    {
+    "PicUrl":"img/A75.jpg",
+    "Name":"Anillo Gota de Amor",
+    "Category":"W",
+    "PType":"Silverr",
+    "Price":35.91,
+    "PID":"A75",
+    "Status":1,
+    "Detail":"-Hermoso anillo de Plata 925.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega. <br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>- Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+    "Offer":""
+    },
+    {
+        "PicUrl":"img/A76.jpg",
+        "Name":"Anillo Amor Leal",
+        "Category":"W",
+        "PType":"Silverr",
+        "Price":35.79,
+        "PID":"A76",
+        "Status":1,
+        "Detail":"-Hermoso anillo de Plata 925.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega. <br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>- Envío a domicilio $3.00 Panamá area centro de la ciudad .<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+        "Offer":""
+    },
+    {
+        "PicUrl":"img/A77.jpg",
+        "Name":"Anillo Monique",
+        "Category":"W",
+        "PType":"Silverr",
+        "Price":40.12,
+        "PID":"A77",
+        "Status":1,
+        "Detail":"-Hermoso anillo de Plata 925.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega. <br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>- Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+        "Offer":""
+    },
+    {
+        "PicUrl":"img/A78.jpg",
+        "Name":"Anillo Allison",
+        "Category":"W",
+        "PType":"Silverr",
+        "Price":33.53,
+        "PID":"A78",
+        "Status":1,
+        "Detail":"-Hermoso anillo de Plata 925.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega. <br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>- Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+        "Offer":""
+    },
+    {
+        "PicUrl":"img/A79.jpg",
+        "Name":"Anillo Rachel",
+        "Category":"W",
+        "PType":"Silverr",
+        "Price":35.11,
+        "PID":"A79",
+        "Status":1,
+        "Detail":"-Hermoso anillo de Plata 925(disponible en varios colores).<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega. <br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>- Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+        "Offer":""
+    },
+    {
+        "PicUrl":"img/A80.jpg",
+        "Name":"Anillo Maxim",
+        "Category":"W",
+        "PType":"Silverr",
+        "Price":38.26,
+        "PID":"A80",
+        "Status":1,
+        "Detail":"-Hermoso anillo de Plata 925.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega. <br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>- Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+        "Offer":""
+    },
+    {
+        "PicUrl":"img/A81.jpg",
+        "Name":"Anillo Nicka",
+        "Category":"W",
+        "PType":"Silverr",
+        "Price":32.93,
+        "PID":"A81",
+        "Status":1,
+        "Detail":"-Hermoso anillo de Plata 925.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega. <br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>- Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+        "Offer":""
+        },
+    {
+        "PicUrl":"img/A82.jpg",
+        "Name":"Anillo Lucia",
+        "Category":"W",
+        "PType":"Silverr",
+        "Price":36.11,
+        "PID":"A82",
+        "Status":1,
+        "Detail":"-Hermoso anillo de Plata 925 con moissanite incrustado.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega.<br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>-Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+        "Offer":""
+        },
+        {
+            "PicUrl":"img/A83.jpg",
+            "Name":"Anillo Yani",
+            "Category":"W",
+            "PType":"Silverr",
+            "Price":47.13,
+            "PID":"A83",
+            "Status":1,
+            "Detail":"-Hermoso anillo de Plata 925 con moissanite incrustado.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega.<br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>-Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+            "Offer":""
+        },
+        {
+            "PicUrl":"img/A84.jpg",
+            "Name":"Anillo flor de amor",
+            "Category":"W",
+            "PType":"Silverr",
+            "Price":39.43,
+            "PID":"A84",
+            "Status":1,
+            "Detail":"-Hermoso anillo de Plata 925 con moissanite incrustado.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega.<br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>-Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+            "Offer":""
+        },
+        {
+            "PicUrl":"img/A85.jpg",
+            "Name":"Anillo Cassy",
+            "Category":"W",
+            "PType":"Silverr",
+            "Price":62.71,
+            "PID":"A85",
+            "Status":1,
+            "Detail":"-Hermoso anillo de Plata 925 con moissanite incrustado.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega.<br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>-Envio gratis",
+            "Offer":""
+        },
+        {
+            "PicUrl":"img/A86.jpg",
+            "Name":"Anillo Alejandra",
+            "Category":"W",
+            "PType":"Silverr",
+            "Price":38.58,
+            "PID":"A86",
+            "Status":1,
+            "Detail":"-Hermoso anillo de Plata 925 con moissanite incrustado.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega.<br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>-Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+            "Offer":""
+        },
+        {
+            "PicUrl":"img/A87.jpg",
+            "Name":"Anillo Roxane",
+            "Category":"W",
+            "PType":"Silverr",
+            "Price":39.15,
+            "PID":"A87",
+            "Status":1,
+            "Detail":"-Hermoso anillo de Plata 925 con moissanite incrustado.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega.<br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>-Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+            "Offer":""
+            },
+            {
+            "PicUrl":"img/A88.jpg",
+            "Name":"Anillo Lolita",
+            "Category":"W",
+            "PType":"Silverr",
+            "Price":38.53,
+            "PID":"A88",
+            "Status":1,
+            "Detail":"-Hermoso anillo de Plata 925 con moissanite incrustado.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega.<br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>-Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+            "Offer":""
+            },
+         {
+        "PicUrl":"img/A89.jpg",
+        "Name":"Anillo Katherina",
+        "Category":"W",
+        "PType":"Silverr",
+        "Price":37.81,
+        "PID":"A89",
+        "Status":1,
+        "Detail":"-Hermoso anillo de Plata 925.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega. <br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>- Envío a domicilio $3.00 Panamá area centro de la ciudad .<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+        "Offer":""
+    },
+    {
+    "PicUrl":"img/A90.jpg",
+    "Name":"Anillo Suzen",
+    "Category":"W",
+    "PType":"Silverr",
+    "Price":34.18,
+    "PID":"A90",
+    "Status":1,
+    "Detail":"-Hermoso anillo de Plata 925.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega. <br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>- Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+    "Offer":""
+},
+{
+"PicUrl":"img/A91.jpg",
+"Name":"Anillo Angelic",
+"Category":"W",
+"PType":"Silverr",
+"Price":45.26,
+"PID":"A91",
+"Status":1,
+"Detail":"-Hermoso anillo de Plata 925 con moissanite incrustado.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega.<br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>-Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+"Offer":""
+},
+{
+"PicUrl":"img/A92.jpg",
+"Name":"Pulsera Sonia-Por pedido",
+"Category":"W",
+"PType":"Wrist",
+"Price":27.00,
+"PID":"A92",
+"Status":1,
+"Detail":"-Pulseras de acero inoxidable chapadas en oro de 18 quilates , longitud de la pulsera 18+5cm<br><br>-Nota importante: Se venden  por separado, nos  debe indicar el color que le interesa.<br><br>Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega. <br><br>El tiempo de entrega es de 15 a 18 días.<br><br>-Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+"Offer":""
+},
+{
+"PicUrl":"img/A93.jpg",
+"Name":"Pulseras variadas -Por pedido",
+"Category":"W",
+"PType":"Wrist",
+"Price":27.00,
+"PID":"A93",
+"Status":1,
+"Detail":"-Pulseras de acero inoxidable chapadas en oro<br><br>- Nota importante: Se venden  por separado, nos  debe indicar el modelo que le interesa.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega. <br><br>-El tiempo de entrega es de 15 a 18 días.<br><br>-Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+"Offer":""
+}
 
     ]
