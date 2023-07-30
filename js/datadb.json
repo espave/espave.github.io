@@ -80,12 +80,56 @@
             "Name":"Collar color esperanza",
             "Category":"W",
             "PType":"Necklace",
-            "Price":20.00,
+            "Price":18.00,
             "PID":"A97",
             "Status":1,
             "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico, enchapado en oro 18 k.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
             "Offer":""
             },
+            {
+                "PicUrl":"img/A107.jpg",
+                "Name":"Collar Lisa (Reversible)",
+                "Category":"W",
+                "PType":"Necklace",
+                "Price":18.00,
+                "PID":"A107",
+                "Status":1,
+                "Detail":"-Material :Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+                "Offer":""
+                },
+                {
+                    "PicUrl":"img/A108.jpg",
+                    "Name":"Collar Mariposa Dorada",
+                    "Category":"W",
+                    "PType":"Necklace",
+                    "Price":18.00,
+                    "PID":"A108",
+                    "Status":1,
+                    "Detail":"-Material :Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico, enchapado en oro 18 k.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+                    "Offer":""
+                    },
+                    {
+                        "PicUrl":"img/A109.jpg",
+                        "Name":"Collar Alejandra",
+                        "Category":"W",
+                        "PType":"Necklace",
+                        "Price":18.00,
+                        "PID":"A109",
+                        "Status":1,
+                        "Detail":"-Material :Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+                        "Offer":""
+                        },
+                        {
+                            "PicUrl":"img/A110.jpg",
+                            "Name":"Collar Aurora",
+                            "Category":"W",
+                            "PType":"Necklace",
+                            "Price":18.00,
+                            "PID":"A110",
+                            "Status":1,
+                            "Detail":"-Material :Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico. Observación : el dije es transparente.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
+                            "Offer":""
+                            },
             {
                 "PicUrl":"img/A98.jpg",
                 "Name":"Collar Corazón Noble",
@@ -125,7 +169,7 @@
                             "Name":"Collar Valeria",
                             "Category":"W",
                             "PType":"Necklace",
-                            "Price":18.00,
+                            "Price":16.00,
                             "PID":"A101",
                             "Status":1,
                             "Detail":"-Material:Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico. <br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50",
@@ -153,6 +197,9 @@
                                     "Detail":"-Material:Acero inoxidable- Enchapado en oro 18K <br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50",
                                     "Offer":""
                                     },
+                                    
+
+                                    
 
     {
         "PicUrl":"img/A7.jpg",
