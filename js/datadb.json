@@ -44,7 +44,7 @@
     },
     {
     "PicUrl":"img/A10.jpg",
-    "Name":"Collar Rosaura ",
+    "Name":"Collar Rosaura-AGOTADO",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
@@ -157,7 +157,7 @@
                         "Name":"Collar Encantada",
                         "Category":"W",
                         "PType":"Necklace",
-                        "Price":18.00,
+                        "Price":17.00,
                         "PID":"A100",
                         "Status":1,
                         "Detail":"-Material:Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico- Enchapado en oro 18k <br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50",
@@ -169,7 +169,7 @@
                             "Name":"Collar Valeria",
                             "Category":"W",
                             "PType":"Necklace",
-                            "Price":16.00,
+                            "Price":15.00,
                             "PID":"A101",
                             "Status":1,
                             "Detail":"-Material:Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico. <br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50",
@@ -261,7 +261,7 @@
     "Name":"Collar Celia",
     "Category":"W",
     "PType":"Necklace",
-    "Price":18.00,
+    "Price":15.00,
     "PID":"A31",
     "Status":1,
     "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50. ",
@@ -309,7 +309,7 @@
     "PID":"A65",
     "Status":1,
     "Detail":"-Material:Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50",
-    "Offer":"13.00"
+    "Offer":"12.00"
     },
     {
     "PicUrl":"img/A8.jpg",
@@ -510,17 +510,6 @@
     "Offer":"11.00"
     },
     {
-    "PicUrl":"img/A37.jpg",
-    "Name":"Arete Estrella + Earcuff ",
-    "Category":"W",
-    "PType":"Ear",
-    "Price":12.00,
-    "PID":"A37",
-    "Status":1,
-    "Detail":"-Material :Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
-    "Offer":"10.00"
-    },
-    {
     "PicUrl":"img/A38.jpg",
     "Name":"Anillo Fabi",
     "Category":"W",
@@ -541,7 +530,7 @@
     "PID":"A41",
     "Status":1,
     "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico. ",
-    "Offer":""
+    "Offer":"16.00"
     },
     {
     "PicUrl":"img/A42.jpg",
@@ -564,14 +553,14 @@
     "PID":"A46",
     "Status":1,
     "Detail":"Acero Inoxidable",
-    "Offer":"18.00"
+    "Offer":"16.00"
     },
     {
     "PicUrl":"img/A47.jpg",
     "Name":"Collar Pirate ",
     "Category":"M",
     "PType":"Necklace",
-    "Price":18.00,
+    "Price":14.00,
     "PID":"A47",
     "Status":1,
     "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
@@ -583,7 +572,7 @@
     "Name":"Collar Spider ",
     "Category":"M",
     "PType":"Necklace",
-    "Price":18.00,
+    "Price":14.00,
     "PID":"A54",
     "Status":1,
     "Detail":"Acero Inoxidable",
@@ -879,7 +868,7 @@
 "Name":"Pulsera Melissa",
 "Category":"W",
 "PType":"Wrist",
-"Price":17.00,
+"Price":16.00,
 "PID":"A94",
 "Status":1,
 "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
@@ -889,7 +878,7 @@
 "Name":"Pulsera Antonia",
 "Category":"W",
 "PType":"Wrist",
-"Price":15.00,
+"Price":13.00,
 "PID":"A95",
 "Status":1,
 "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
@@ -899,7 +888,7 @@
 "Name":"Pulsera Marsha",
 "Category":"W",
 "PType":"Wrist",
-"Price":16.00,
+"Price":14.00,
 "PID":"A104",
 "Status":1,
 "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
@@ -909,7 +898,7 @@
 "Name":"Pulsera Carmen",
 "Category":"W",
 "PType":"Wrist",
-"Price":16.00,
+"Price":14.00,
 "PID":"A105",
 "Status":1,
 "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
