@@ -434,7 +434,7 @@
     },
     {
     "PicUrl":"img/A29.jpg",
-    "Name":"Anillo Lola",
+    "Name":"Anillo Lola-AGOTADO",
     "Category":"W",
     "PType":"Ring",
     "Price":13.00,
@@ -456,7 +456,7 @@
     },
     {
     "PicUrl":"img/A64.jpg",
-    "Name":"Collar ojito",
+    "Name":"Collar ojito-AGOTADO",
     "Category":"W",
     "PType":"Necklace",
     "Price":15.00,
@@ -660,7 +660,7 @@
     "Name":"Anillo Merlina 🔝",
     "Category":"W",
     "PType":"Ring",
-    "Price":13.00,
+    "Price":10.00,
     "PID":"A71",
     "Status":1,
     "Detail":"Acero Inoxidable",
