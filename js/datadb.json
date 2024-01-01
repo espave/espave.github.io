@@ -1,6 +1,6 @@
 [{
     "PicUrl":"img/A1.jpg",
-    "Name":"Collar Amor Azul",
+    "Name":"Collar Amor Azul-AGOTADO",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
@@ -44,7 +44,7 @@
     },
     {
     "PicUrl":"img/A10.jpg",
-    "Name":"Collar Rosaura-AGOTADO",
+    "Name":"Collar Rosaura",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
@@ -106,7 +106,7 @@
                     "PID":"A108",
                     "Status":1,
                     "Detail":"-Material :Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico, enchapado en oro 18 k.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-                    "Offer":""
+                    "Offer":"16.00"
                     },
                     {
                         "PicUrl":"img/A109.jpg",
@@ -195,7 +195,7 @@
                                     "PID":"A103",
                                     "Status":1,
                                     "Detail":"-Material:Acero inoxidable- Enchapado en oro 18K <br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-                                    "Offer":""
+                                    "Offer":"12.00"
                                     },
                                     
 
@@ -401,7 +401,7 @@
     },
     {
     "PicUrl":"img/A19.jpg",
-    "Name":"Anillo Hope",
+    "Name":"Anillo Hope-AGOTADO",
     "Category":"W",
     "PType":"Ring",
     "Price":13.00,
@@ -655,17 +655,7 @@
     "Detail":"Acero de titanio , es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
     "Offer":""
     },
-    {
-    "PicUrl":"img/A71.jpg",
-    "Name":"Anillo Merlina 🔝",
-    "Category":"W",
-    "PType":"Ring",
-    "Price":10.00,
-    "PID":"A71",
-    "Status":1,
-    "Detail":"Acero Inoxidable",
-    "Offer":""
-    },
+
     {
     "PicUrl":"img/A59.jpg",
     "Name":"Pulsera Kalista ",
