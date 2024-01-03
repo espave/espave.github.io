@@ -1,12 +1,12 @@
 [{
     "PicUrl":"img/A1.jpg",
-    "Name":"Collar Amor Azul-AGOTADO",
+    "Name":"Collar Flor de Lima",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
     "PID":"A1",
     "Status":1,
-    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envíos  mediante uno express.",
+    "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
     "Offer":""
     },
     {
@@ -33,13 +33,13 @@
     },
     {
     "PicUrl":"img/A4.jpg",
-    "Name":"Collar Pureza de Amor-AGOTADO ",
+    "Name":"Collar Resplandor ",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
     "PID":"A4",
     "Status":1,
-    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país, envíos mediante uno express.",
+    "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express. ",
     "Offer":""
     },
     {
@@ -64,6 +64,50 @@
     "Detail":"-Material : Acero de titanio chapado en oro, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío mediante uno express.",
     "Offer":""
     },
+    {
+        "PicUrl":"img/A112.jpg",
+        "Name":"Collar Amor Leal",
+        "Category":"W",
+        "PType":"Necklace",
+        "Price":18.00,
+        "PID":"A112",
+        "Status":1,
+        "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express. ",
+        "Offer":""
+        },
+        {
+            "PicUrl":"img/A113.jpg",
+            "Name":"Collar Amor Mora",
+            "Category":"W",
+            "PType":"Necklace",
+            "Price":18.00,
+            "PID":"A113",
+            "Status":1,
+            "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express. ",
+            "Offer":""
+            },
+            {
+                "PicUrl":"img/A114.jpg",
+                "Name":"Collar Fuerza de Amor",
+                "Category":"W",
+                "PType":"Necklace",
+                "Price":18.00,
+                "PID":"A114",
+                "Status":1,
+                "Detail":"-Material : Acero Inoxidable.Chapado en oro <br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express. ",
+                "Offer":""
+                },
+                {
+                    "PicUrl":"img/A111.jpg",
+                    "Name":"Collar Marley",
+                    "Category":"W",
+                    "PType":"Necklace",
+                    "Price":18.00,
+                    "PID":"A111",
+                    "Status":1,
+                    "Detail":"-Material : Acero Inoxidable. Bañado en oro 18K<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express. ",
+                    "Offer":""
+                    },
     {
         "PicUrl":"img/A96.jpg",
         "Name":"Collar Flor de esperanza",
