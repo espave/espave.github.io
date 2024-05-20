@@ -45,7 +45,7 @@ category = urlParams.get('category');
                     </div>
                     <div class="card-footer d-flex justify-content-between bg-light border">
                         <a href="detail.html?productid=${product.PID}" class="btn btn-sm text-dark p-0"><i class="fas fa-eye text-primary mr-1"></i>Detalle</a>
-                        <a href="https://wa.me/+50769044732?text=Hola%20Estoy%20Interesado%20en%20este%20producto:%20${product.PID}"><i class="fa fa-whatsapp" style="font-size:24px;color:green"></i></a>
+                        <!--<a href="https://wa.me/+50769044732?text=Hola%20Estoy%20Interesado%20en%20este%20producto:%20${product.PID}"><i class="fa fa-whatsapp" style="font-size:24px;color:green"></i></a>-->
                     </div>
                 </div>
             </div>
@@ -66,7 +66,7 @@ category = urlParams.get('category');
                 </div>
                 <div class="card-footer d-flex justify-content-between bg-light border">
                     <a href="detail.html?productid=${product.PID}" class="btn btn-sm text-dark p-0"><i class="fas fa-eye text-primary mr-1"></i>Detalle</a>
-                    <a href="https://wa.me/+50769044732?text=Hola%20Estoy%20Interesado%20en%20este%20producto:%20${product.PID}"><i class="fa fa-whatsapp" style="font-size:24px;color:green"></i></a>
+                    <!--<a href="https://wa.me/+50769044732?text=Hola%20Estoy%20Interesado%20en%20este%20producto:%20${product.PID}"><i class="fa fa-whatsapp" style="font-size:24px;color:green"></i></a>-->
                 </div>
             </div>
         </div>
@@ -96,7 +96,7 @@ category = urlParams.get('category');
                                     </div>
                                     <div class="card-footer d-flex justify-content-between bg-light border">
                                         <a href="detail.html?productid=${product.PID}" class="btn btn-sm text-dark p-0"><i class="fas fa-eye text-primary mr-1"></i>Detalle</a>
-                                        <a href="https://wa.me/+50769044732?text=Hola%20Estoy%20Interesado%20en%20este%20producto:%20${product.Name}"><i class="fa fa-whatsapp" style="font-size:24px;color:green"></i></a>
+                                        <!--<a href="https://wa.me/+50769044732?text=Hola%20Estoy%20Interesado%20en%20este%20producto:%20${product.Name}"><i class="fa fa-whatsapp" style="font-size:24px;color:green"></i></a>-->
                                     </div>
                                 </div>
                             </div>
@@ -117,7 +117,7 @@ category = urlParams.get('category');
                                         </div>
                                         <div class="card-footer d-flex justify-content-between bg-light border">
                                             <a href="detail.html?productid=${product.PID}" class="btn btn-sm text-dark p-0"><i class="fas fa-eye text-primary mr-1"></i>Detalle</a>
-                                            <a href="https://wa.me/+50769044732?text=Hola%20Estoy%20Interesado%20en%20este%20producto:%20${product.Name}"><i class="fa fa-whatsapp" style="font-size:24px;color:green"></i></a>
+                                            <!--<a href="https://wa.me/+50769044732?text=Hola%20Estoy%20Interesado%20en%20este%20producto:%20${product.Name}"><i class="fa fa-whatsapp" style="font-size:24px;color:green"></i></a>-->
                                         </div>
                                     </div>
                                 </div>
