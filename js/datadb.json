@@ -55,7 +55,7 @@
     },
     {
     "PicUrl":"img/A55.jpg",
-    "Name":"Collar Camila  ",
+    "Name":"Collar Camila-AGOTADO  ",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
@@ -73,7 +73,7 @@
         "PID":"A112",
         "Status":1,
         "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express. ",
-        "Offer":""
+        "Offer":"15.00"
         },
         {
             "PicUrl":"img/A113.jpg",
@@ -84,7 +84,7 @@
             "PID":"A113",
             "Status":1,
             "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express. ",
-            "Offer":""
+            "Offer":"15.00"
             },
             {
                 "PicUrl":"img/A114.jpg",
@@ -95,7 +95,7 @@
                 "PID":"A114",
                 "Status":1,
                 "Detail":"-Material : Acero Inoxidable.Chapado en oro <br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express. ",
-                "Offer":""
+                "Offer":"15.00"
                 },
                 {
                     "PicUrl":"img/A111.jpg",
@@ -106,7 +106,7 @@
                     "PID":"A111",
                     "Status":1,
                     "Detail":"-Material : Acero Inoxidable. Bañado en oro 18K<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express. ",
-                    "Offer":""
+                    "Offer":"15.00"
                     },
     {
         "PicUrl":"img/A96.jpg",
@@ -150,7 +150,7 @@
                     "PID":"A108",
                     "Status":1,
                     "Detail":"-Material :Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico, enchapado en oro 18 k.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-                    "Offer":"16.00"
+                    "Offer":"15.00"
                     },
                     {
                         "PicUrl":"img/A109.jpg",
@@ -161,7 +161,7 @@
                         "PID":"A109",
                         "Status":1,
                         "Detail":"-Material :Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-                        "Offer":""
+                        "Offer":"15.00"
                         },
                         {
                             "PicUrl":"img/A110.jpg",
@@ -174,23 +174,13 @@
                             "Detail":"-Material :Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico. Observación : el dije es transparente.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
                             "Offer":""
                             },
-                            {
-                                "PicUrl":"img/A115.jpg",
-                                "Name":"Anillo Maxima",
-                                "Category":"W",
-                                "PType":"Ring",
-                                "Price":13.00,
-                                "PID":"A115",
-                                "Status":1,
-                                "Detail":"-Material :Acero inoxidable bañado en oro.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-                                "Offer":""
-                                },
+                         
             {
                 "PicUrl":"img/A98.jpg",
                 "Name":"Collar Corazón Noble",
                 "Category":"W",
                 "PType":"Necklace",
-                "Price":17.00,
+                "Price":18.00,
                 "PID":"A98",
                 "Status":1,
                 "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
@@ -198,7 +188,7 @@
                 },
                 {
                     "PicUrl":"img/A99.jpg",
-                    "Name":"Collar Soluna",
+                    "Name":"Collar Soluna-AGOTADO",
                     "Category":"W",
                     "PType":"Necklace",
                     "Price":18.00,
@@ -212,7 +202,7 @@
                         "Name":"Collar Encantada",
                         "Category":"W",
                         "PType":"Necklace",
-                        "Price":17.00,
+                        "Price":18.00,
                         "PID":"A100",
                         "Status":1,
                         "Detail":"-Material:Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico- Enchapado en oro 18k <br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
@@ -224,7 +214,7 @@
                             "Name":"Collar Valeria",
                             "Category":"W",
                             "PType":"Necklace",
-                            "Price":15.00,
+                            "Price":13.00,
                             "PID":"A101",
                             "Status":1,
                             "Detail":"-Material:Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico. <br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
@@ -239,34 +229,9 @@
                                 "PID":"A102",
                                 "Status":1,
                                 "Detail":"-Material:Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico. <br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-                                "Offer":""
+                                "Offer":"15.00"
                                 },
-                                {
-                                    "PicUrl":"img/A103.jpg",
-                                    "Name":"Collar Shesay",
-                                    "Category":"W",
-                                    "PType":"Necklace",
-                                    "Price":15.00,
-                                    "PID":"A103",
-                                    "Status":1,
-                                    "Detail":"-Material:Acero inoxidable- Enchapado en oro 18K <br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-                                    "Offer":"12.00"
-                                    },
-                                    
-
-                                    
-
-    {
-        "PicUrl":"img/A7.jpg",
-        "Name":"Aretes Dani",
-        "Category":"W",
-        "PType":"Ear",
-        "Price":13.00,
-        "PID":"A7",
-        "Status":1,
-        "Detail":"-Material:Acero inoxidable Enchapado en oro 18 K.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-        "Offer":"10.00"
-        },
+                                                                    
     {
     "PicUrl":"img/A61.jpg",
     "Name":"Collar corazón indomable ",
@@ -291,7 +256,7 @@
     },
     {
     "PicUrl":"img/A23.jpg",
-    "Name":"Collar Corazones Amados ",
+    "Name":"Collar Corazones Amados-AGOTADO ",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
@@ -309,14 +274,14 @@
     "PID":"A56",
     "Status":1,
     "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-    "Offer":""
+    "Offer":"15.00"
     },
     {
     "PicUrl":"img/A31.jpg",
     "Name":"Collar Celia",
     "Category":"W",
     "PType":"Necklace",
-    "Price":15.00,
+    "Price":13.00,
     "PID":"A31",
     "Status":1,
     "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
@@ -344,17 +309,7 @@
     "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
     "Offer":""
     },
-    {
-    "PicUrl":"img/A36.jpg",
-    "Name":"Collar Perla",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":12.00,
-    "PID":"A36",
-    "Status":1,
-    "Detail":"-Material :Dije de Perla y cadena de  acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-    "Offer":""
-    },
+ 
     {
     "PicUrl":"img/A65.jpg",
     "Name":"Collar + aretes Candado de Amor",
@@ -364,11 +319,11 @@
     "PID":"A65",
     "Status":1,
     "Detail":"-Material:Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-    "Offer":"12.00"
+    "Offer":"10.00"
     },
     {
     "PicUrl":"img/A8.jpg",
-    "Name":"Aretes Lila",
+    "Name":"Aretes Kassidy",
     "Category":"W",
     "PType":"Ear",
     "Price":13.00,
@@ -377,17 +332,7 @@
     "Detail":"-Material: Acero inoxidable Enchapado en oro 18 K.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
     "Offer":"10.00"
     },
-    {
-    "PicUrl":"img/A11.jpg",
-    "Name":"Pulsera Caroline",
-    "Category":"W",
-    "PType":"Wrist",
-    "Price":10.00,
-    "PID":"A11",
-    "Status":1,
-    "Detail":"Material Cuentas.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-    "Offer":""
-    },
+  
     {
     "PicUrl":"img/A12.jpg",
     "Name":"Anillo Karla",
@@ -397,7 +342,7 @@
     "PID":"A12",
     "Status":1,
     "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
-    "Offer":""
+    "Offer":"8.00"
     },
     {
     "PicUrl":"img/A13.jpg",
@@ -410,17 +355,7 @@
     "Detail":"-Material :Acero inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
     "Offer":"10.00"
     },
-    {
-    "PicUrl":"img/A14.jpg",
-    "Name":"Pulsera Kari ",
-    "Category":"W",
-    "PType":"Wrist",
-    "Price":12.00,
-    "PID":"A14",
-    "Status":1,
-    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-    "Offer":""
-    },
+ 
     {
     "PicUrl":"img/A16.jpg",
     "Name":"Argollas Lucy Concha-AGOTADO",
@@ -452,7 +387,7 @@
     "PID":"A18",
     "Status":1,
     "Detail":"-Material:Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-    "Offer":"12.50"
+    "Offer":"10.00"
     },
     {
     "PicUrl":"img/A19.jpg",
@@ -474,30 +409,9 @@
     "PID":"A33",
     "Status":1,
     "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-    "Offer":"13.00"
+    "Offer":"12.00"
     },
-    {
-    "PicUrl":"img/A25.jpg",
-    "Name":"Collar Roxy-AGOTADO",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":15.00,
-    "PID":"A25",
-    "Status":1,
-    "Detail":"-Material:Acero inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-    "Offer":"11.00"
-    },
-    {
-    "PicUrl":"img/A29.jpg",
-    "Name":"Anillo Lola-AGOTADO",
-    "Category":"W",
-    "PType":"Ring",
-    "Price":13.00,
-    "PID":"A29",
-    "Status":1,
-    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-    "Offer":""
-    },
+ 
     {
     "PicUrl":"img/A30.jpg",
     "Name":"Pulsera Malva",
@@ -509,28 +423,7 @@
     "Detail":"-Material: Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
     "Offer":""
     },
-    {
-    "PicUrl":"img/A64.jpg",
-    "Name":"Collar ojito-AGOTADO",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":15.00,
-    "PID":"A64",
-    "Status":1,
-    "Detail":"-Material : Acero inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,aréas lejanas de Panamá norte,San miguelito ,Brisas del golf , barriadas de Panamá Este , Tocúmen y Costa del Este: Envíos solo mediante uno express, tarifa $6.50.",
-    "Offer":"11.00"
-    },
-    {
-    "PicUrl":"img/A73.jpg",
-    "Name":"Collar Mayita",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":15.00,
-    "PID":"A73",
-    "Status":1,
-    "Detail":"-Material :Acero de titanio 18 K chapado en oro , es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-    "Offer":"11.00"
-    },
+ 
     {
     "PicUrl":"img/A72.jpg",
     "Name":"Collar ojito de ursula",
@@ -555,27 +448,15 @@
     },
 
     {
-    "PicUrl":"img/A38.jpg",
-    "Name":"Anillo Fabi",
-    "Category":"W",
-    "PType":"Ring",
-    "Price":10.00,
-    "PID":"A38",
-    "Status":1,
-    "Detail":"Material :Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-    "Offer":""
-    },
-
-    {
     "PicUrl":"img/A41.jpg",
-    "Name":"Collar Boss🔝",
+    "Name":"Collar Boss",
     "Category":"M",
     "PType":"Necklace",
     "Price":18.00,
     "PID":"A41",
     "Status":1,
     "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico. ",
-    "Offer":"16.00"
+    "Offer":"10.00"
     },
     {
     "PicUrl":"img/A42.jpg",
@@ -586,20 +467,9 @@
     "PID":"A42",
     "Status":1,
     "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico. ",
-    "Offer":"16.00"
+    "Offer":"10.00"
     },
 
-    {
-    "PicUrl":"img/A46.jpg",
-    "Name":"Collar Heavy",
-    "Category":"M",
-    "PType":"Necklace",
-    "Price":20.00,
-    "PID":"A46",
-    "Status":1,
-    "Detail":"Acero Inoxidable",
-    "Offer":"16.00"
-    },
     {
     "PicUrl":"img/A47.jpg",
     "Name":"Collar Pirate ",
@@ -609,23 +479,12 @@
     "PID":"A47",
     "Status":1,
     "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":""
+    "Offer":"10.00"
     },
 
     {
-    "PicUrl":"img/A54.jpg",
-    "Name":"Collar Spider ",
-    "Category":"M",
-    "PType":"Necklace",
-    "Price":14.00,
-    "PID":"A54",
-    "Status":1,
-    "Detail":"Acero Inoxidable",
-    "Offer":""
-    },
-    {
     "PicUrl":"img/A68.jpg",
-    "Name":"Pulsera Gerardo 🔝 ",
+    "Name":"Pulsera Gerardo -AGOTADO ",
     "Category":"M",
     "PType":"Wrist",
     "Price":13.00,
@@ -633,17 +492,6 @@
     "Status":1,
     "Detail":"Acero Inoxidable",
     "Offer":"10.00"
-    },
-    {
-    "PicUrl":"img/A57.jpg",
-    "Name":"Pulsera Tania ",
-    "Category":"W",
-    "PType":"Wrist",
-    "Price":15.00,
-    "PID":"A57",
-    "Status":1,
-    "Detail":"Acero de Titanio, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":""
     },
     {
     "PicUrl":"img/A58.jpg",
@@ -656,38 +504,17 @@
     "Detail":"Acero de titanio-Chapado en oro, es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
     "Offer":"AGOTADO"
     },
-    {
-    "PicUrl":"img/A60.jpg",
-    "Name":"Anillo Alexa",
-    "Category":"W",
-    "PType":"Ring",
-    "Price":12.00,
-    "PID":"A60",
-    "Status":1,
-    "Detail":"Acero Inoxidable",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A63.jpg",
-    "Name":"Anillo Tanisha",
-    "Category":"W",
-    "PType":"Ring",
-    "Price":13.00,
-    "PID":"A63",
-    "Status":1,
-    "Detail":"Acero de titanio , es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":""
-    },
+  
     {
     "PicUrl":"img/A66.jpg",
-    "Name":"Anillo Solaris 🔝 ",
+    "Name":"Anillo Solaris  ",
     "Category":"W",
     "PType":"Ring",
     "Price":13.00,
     "PID":"A66",
     "Status":1,
     "Detail":"Acero de titanio , es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.",
-    "Offer":""
+    "Offer":"10.00"
     },
     {
     "PicUrl":"img/A67.jpg",
@@ -800,17 +627,7 @@
         "Detail":"-Hermoso anillo de Plata 925 con moissanite incrustado.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega.<br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>-Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,envío  mediante uno express.",
         "Offer":""
         },
-        {
-            "PicUrl":"img/A83.jpg",
-            "Name":"Anillo Yani",
-            "Category":"W",
-            "PType":"Silverr",
-            "Price":47.13,
-            "PID":"A83",
-            "Status":1,
-            "Detail":"-Hermoso anillo de Plata 925 con moissanite incrustado.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega.<br><br>-El tiempo de entrega es de 15  a 18 días.<br><br>-Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,envío  mediante uno express.",
-            "Offer":""
-        },
+     
         {
             "PicUrl":"img/A84.jpg",
             "Name":"Anillo flor de amor",
@@ -907,10 +724,10 @@
 "PID":"A94",
 "Status":1,
 "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-"Offer":""
+"Offer":"12.00"
 },
 {"PicUrl":"img/A95.jpg",
-"Name":"Pulsera Antonia",
+"Name":"Pulsera Antonia-Agotado",
 "Category":"W",
 "PType":"Wrist",
 "Price":13.00,
@@ -920,47 +737,17 @@
 "Offer":""
 },
 {"PicUrl":"img/A104.jpg",
-"Name":"Pulsera Marsha",
+"Name":"Pulsera Tiffany",
 "Category":"W",
 "PType":"Wrist",
 "Price":14.00,
 "PID":"A104",
 "Status":1,
 "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-"Offer":""
+"Offer":"12.00"
 },
-{"PicUrl":"img/A105.jpg",
-"Name":"Pulsera Carmen",
-"Category":"W",
-"PType":"Wrist",
-"Price":14.00,
-"PID":"A105",
-"Status":1,
-"Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-"Offer":""
-},
-{
-"PicUrl":"img/A92.jpg",
-"Name":"Pulsera Sonia-solo por pedido",
-"Category":"W",
-"PType":"Wrist",
-"Price":27.00,
-"PID":"A92",
-"Status":1,
-"Detail":"-Pulseras de acero inoxidable chapadas en oro de 18 quilates , longitud de la pulsera 18+5cm<br><br>-Nota importante: Se venden  por separado, nos  debe indicar el color que le interesa.<br><br>Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega. <br><br>El tiempo de entrega es de 15 a 18 días.<br><br>-Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,envío  mediante uno express.",
-"Offer":""
-},
-{
-"PicUrl":"img/A93.jpg",
-"Name":"Pulseras variadas -Solo por pedido",
-"Category":"W",
-"PType":"Wrist",
-"Price":27.00,
-"PID":"A93",
-"Status":1,
-"Detail":"-Pulseras de acero inoxidable chapadas en oro<br><br>- Nota importante: Se venden  por separado, nos  debe indicar el modelo que le interesa.<br><br>-Esta pieza es por pedido, el cual debe ser abonado 50% y cancelar el día de la entrega. <br><br>-El tiempo de entrega es de 15 a 18 días.<br><br>-Envío a domicilio $3.00 Panamá area centro de la ciudad.<br><br>-Interior del país,envío  mediante uno express.",
-"Offer":""
-},
+
+
 {
     "PicUrl":"img/A106.jpg",
     "Name":"Anillo Gretchen",
@@ -972,6 +759,5 @@
     "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
     "Offer":""
     }
-
 
     ]

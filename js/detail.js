@@ -68,7 +68,7 @@ console.log(productid);
                                             </button>
                                         </div>
                                     </div>    
-                                    <!--<a href="https://wa.me/+50769044732?text=Hola%20Estoy%20Interesado%20en%20este%20producto:%20${product.Name}"><i class="fa fa-whatsapp" style="font-size:48px;color:green"></i></a>-->
+                                    <a href="https://wa.me/+50769044732?text=Hola%20Estoy%20Interesado%20en%20este%20producto:%20${product.Name}"><i class="fa fa-whatsapp" style="font-size:48px;color:green"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -118,7 +118,7 @@ console.log(productid);
                                             </button>
                                         </div>
                                     </div>    
-                                    <!--<a href="https://wa.me/+50769044732?text=Hola%20Estoy%20Interesado%20en%20este%20producto:%20${product.Name}"><i class="fa fa-whatsapp" style="font-size:48px;color:green"></i></a>-->
+                                    <a href="https://wa.me/+50769044732?text=Hola%20Estoy%20Interesado%20en%20este%20producto:%20${product.Name}"><i class="fa fa-whatsapp" style="font-size:48px;color:green"></i></a>
                                 </div>
                             </div>
                         </div>
