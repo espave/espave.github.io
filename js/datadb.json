@@ -1,6 +1,6 @@
 [{
     "PicUrl":"img/A1.jpg",
-    "Name":"Collar Flor de Lima",
+    "Name":"Collar Flor de Lima-AGOTADO",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
@@ -40,7 +40,7 @@
     "PID":"A4",
     "Status":1,
     "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express. ",
-    "Offer":""
+    "Offer":"15.00"
     },
     {
     "PicUrl":"img/A10.jpg",
@@ -121,7 +121,7 @@
         },
         {
             "PicUrl":"img/A97.jpg",
-            "Name":"Collar color esperanza",
+            "Name":"Collar color esperanza-AGOTADO",
             "Category":"W",
             "PType":"Necklace",
             "Price":16.00,
@@ -218,7 +218,7 @@
                             "PID":"A101",
                             "Status":1,
                             "Detail":"-Material:Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico. <br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-                            "Offer":""
+                            "Offer":"10.00"
                             },
                             {
                                 "PicUrl":"img/A102.jpg",
@@ -241,7 +241,7 @@
     "PID":"A61",
     "Status":1,
     "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express. ",
-    "Offer":""
+    "Offer":"15.00"
     },
     {
     "PicUrl":"img/A74.jpg",
@@ -276,39 +276,6 @@
     "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
     "Offer":"15.00"
     },
-    {
-    "PicUrl":"img/A31.jpg",
-    "Name":"Collar Celia",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":13.00,
-    "PID":"A31",
-    "Status":1,
-    "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A21.jpg",
-    "Name":"Collar corazón de Perla-AGOTADO ",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A21",
-    "Status":1,
-    "Detail":"-Material perlas y el dije es de acero de Titanio , es un material que no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-    "Offer":""
-    },
-    {
-    "PicUrl":"img/A62.jpg",
-    "Name":"Collar Corazón Valiente ",
-    "Category":"W",
-    "PType":"Necklace",
-    "Price":18.00,
-    "PID":"A62",
-    "Status":1,
-    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-    "Offer":""
-    },
  
     {
     "PicUrl":"img/A65.jpg",
@@ -319,7 +286,7 @@
     "PID":"A65",
     "Status":1,
     "Detail":"-Material:Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-    "Offer":"10.00"
+    "Offer":"9.00"
     },
     {
     "PicUrl":"img/A8.jpg",
