@@ -11,13 +11,13 @@
     },
     {
     "PicUrl":"img/A2.jpg",
-    "Name":"Collar Cielo- AGOTADO ",
+    "Name":"Collar Cielo ",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
     "PID":"A2",
     "Status":1,
-    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país envíos mediante uno express.",
+    "Detail":"Pocas unidades en stock -Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país envíos mediante uno express.",
     "Offer":""
     },
     {
@@ -33,7 +33,7 @@
     },
     {
     "PicUrl":"img/A4.jpg",
-    "Name":"Collar Resplandor ",
+    "Name":"Collar Resplandor-AGOTADO ",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
@@ -50,12 +50,12 @@
     "Price":18.00,
     "PID":"A10",
     "Status":1,
-    "Detail":"-Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envios mediante uno express.",
+    "Detail":"Quedan pocos -Material : Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envios mediante uno express.",
     "Offer":""
     },
     {
     "PicUrl":"img/A55.jpg",
-    "Name":"Collar Camila-AGOTADO  ",
+    "Name":"Collar Camila  ",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
@@ -66,7 +66,7 @@
     },
     {
         "PicUrl":"img/A112.jpg",
-        "Name":"Collar Amor Leal",
+        "Name":"Collar Amor Leal-AGOTADO",
         "Category":"W",
         "PType":"Necklace",
         "Price":18.00,
@@ -77,7 +77,7 @@
         },
         {
             "PicUrl":"img/A113.jpg",
-            "Name":"Collar Amor Mora",
+            "Name":"Collar Amor Mora-AGOTADO",
             "Category":"W",
             "PType":"Necklace",
             "Price":18.00,
@@ -88,7 +88,7 @@
             },
             {
                 "PicUrl":"img/A114.jpg",
-                "Name":"Collar Fuerza de Amor",
+                "Name":"Collar Fuerza de Amor-AGOTADO",
                 "Category":"W",
                 "PType":"Necklace",
                 "Price":18.00,
@@ -121,7 +121,7 @@
         },
         {
             "PicUrl":"img/A97.jpg",
-            "Name":"Collar color esperanza-AGOTADO",
+            "Name":"Collar color esperanza",
             "Category":"W",
             "PType":"Necklace",
             "Price":16.00,
@@ -139,7 +139,7 @@
                 "PID":"A107",
                 "Status":1,
                 "Detail":"-Material :Acero de titanio, no se oxida ni desgasta con el tiempo y es hipoalergénico.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
-                "Offer":""
+                "Offer":"15.00"
                 },
                 {
                     "PicUrl":"img/A108.jpg",
@@ -256,7 +256,7 @@
     },
     {
     "PicUrl":"img/A23.jpg",
-    "Name":"Collar Corazones Amados-AGOTADO ",
+    "Name":"Collar Corazones Amados ",
     "Category":"W",
     "PType":"Necklace",
     "Price":18.00,
@@ -265,6 +265,28 @@
     "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express.",
     "Offer":""
     }, 
+    {
+        "PicUrl":"img/A62.jpg",
+        "Name":"Collar corazón de amor ",
+        "Category":"W",
+        "PType":"Necklace",
+        "Price":18.00,
+        "PID":"A62",
+        "Status":1,
+        "Detail":"-Material : Acero Inoxidable.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express. ",
+        "Offer":""
+        },
+        {
+            "PicUrl":"img/A62.jpg",
+            "Name":"Collar corazón de amor ",
+            "Category":"W",
+            "PType":"Necklace",
+            "Price":18.00,
+            "PID":"A62",
+            "Status":1,
+            "Detail":"-Material : Acero de titanio.<br><br>-Delivery ciudad de Panamá centro (Puede variar segun distancia) entre $3.00 a $4.50. <br><br>-Interior del país,envío  mediante uno express. ",
+            "Offer":""
+            },
     {
     "PicUrl":"img/A56.jpg",
     "Name":"Collar Luz",
@@ -404,7 +426,7 @@
     },
     {
     "PicUrl":"img/A35.jpg",
-    "Name":"Argollas Sandra ",
+    "Name":"Argollas Sandra -AGOTADO",
     "Category":"W",
     "PType":"Ear",
     "Price":13.00,
